@@ -1,0 +1,14 @@
+{
+  "name": "overlay_issue_31587",
+  "version": "1.0.0",
+  "description": "overlay_issue_31587",
+  "main": "read.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Hoyle",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.0"
+  }
+}
